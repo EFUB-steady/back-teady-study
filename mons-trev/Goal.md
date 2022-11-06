@@ -1,1 +1,13 @@
 
+- [ ] 11/6
+ - chapter 1~2
+- [ ] 11/13
+ - chapter 3~4
+- [ ] 11/20
+ - chapter 5
+- [ ] 11/27
+ - chapter 6~7
+- [ ] 12/4
+ - chapter 8
+- [ ] 12/11
+ - chapter 9~10
