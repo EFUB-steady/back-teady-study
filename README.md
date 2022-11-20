@@ -11,7 +11,7 @@
 |김민주|김윤지|변지은|최빈|
 |:-----:|:-----:|:----:|:----:|
 |이펙티브자바|자바의정석|스프링부트와 AWS로 혼자 구현하는 웹서비스|자바의정석|
-|[⛳️⛳️⛳️](https://github.com/EFUB-steady/back-teady-study/blob/dev/MINJU-KIMmm/Goal.md)|[⛳️⛳️⛳️](https://github.com/EFUB-steady/back-teady-study/blob/dev/chlqls/Goal.md)|[⛳️⛳️⛳️](https://github.com/EFUB-steady/back-teady-study/blob/dev/mons-trev/Goal.md)|[⛳️⛳️⛳️](https://github.com/EFUB-steady/back-teady-study/blob/dev/yoonjiy/Goal.md)|
+|[⛳️⛳️⛳️](https://github.com/EFUB-steady/back-teady-study/blob/dev/MINJU-KIMmm/Goal.md)|[⛳️⛳️⛳️](https://github.com/EFUB-steady/back-teady-study/blob/dev/yoonjiy/Goal.md)|[⛳️⛳️⛳️](https://github.com/EFUB-steady/back-teady-study/blob/dev/mons-trev/Goal.md)|[⛳️⛳️⛳️](https://github.com/EFUB-steady/back-teady-study/blob/dev/chlqls/Goal.md)|
 
 ## 폴더 구조
 `/참여자이름/n주차` 폴더 안에 해당 주차 내용 자유롭게 작성
@@ -28,5 +28,5 @@
 |--|--|--|--|--|
 |11/6|🌕|🌕|🌕|🌕|
 |11/13|🌕|🌕|🌕|🌕|
-|11/20|||||
+|11/20|🌕|🌕|🌓|🌕|
 |11/27|||||
