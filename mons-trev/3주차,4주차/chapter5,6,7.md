@@ -45,7 +45,7 @@ compile('org.springframework.session:spring-session-jdbc')
 ```
 spring.session.store-type=jdbc
 ````
-### aws 서버 환경을 만들어보자-aws ec2
+### aws 서버 환경을 만들어보자-aws ec2, AWS RDS
 
 클라우드를 통해 서버, 스토리지, 데이터베이스, 네트워크, 소프트웨어, 모니터링 등의 서비스를 제공받을 수 있다.
 
